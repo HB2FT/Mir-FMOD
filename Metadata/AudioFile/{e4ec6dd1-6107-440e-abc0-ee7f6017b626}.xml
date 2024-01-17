@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e4ec6dd1-6107-440e-abc0-ee7f6017b626}">
+		<property name="assetPath">
+			<value>Music/Oba/Ambient Soundtrack.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>77.647541666666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b48b1e20-c0f2-425e-9420-e8900c4c3b0a}</destination>
+		</relationship>
+	</object>
+</objects>

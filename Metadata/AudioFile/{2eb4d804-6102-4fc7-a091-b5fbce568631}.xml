@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2eb4d804-6102-4fc7-a091-b5fbce568631}">
+		<property name="assetPath">
+			<value>Music/MainMenu/For Daughter.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>306.97333333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b48b1e20-c0f2-425e-9420-e8900c4c3b0a}</destination>
+		</relationship>
+	</object>
+</objects>
