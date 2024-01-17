@@ -1,2 +1,2 @@
-# Nir-FMOD
+# Mir-FMOD
 Fmod project for Mir
