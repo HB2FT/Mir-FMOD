@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d8e9900e-c2ba-4249-96c4-8bc55b4a3c36}">
+		<property name="name">
+			<value>boss_intro_entry</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e01acc96-96df-4dd3-8feb-301c0fd849b4}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bad063a3-f80d-44c9-b4a8-064b44dd4c9f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bad063a3-f80d-44c9-b4a8-064b44dd4c9f}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>intro</value>
+			<value>entry</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

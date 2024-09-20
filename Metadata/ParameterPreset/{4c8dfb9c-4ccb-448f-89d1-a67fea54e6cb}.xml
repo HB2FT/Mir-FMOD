@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{4c8dfb9c-4ccb-448f-89d1-a67fea54e6cb}">
+		<property name="name">
+			<value>boss_middle2_end</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e01acc96-96df-4dd3-8feb-301c0fd849b4}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f56651fb-6df7-418b-934d-40e68af8fd28}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f56651fb-6df7-418b-934d-40e68af8fd28}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>middle2</value>
+			<value>end</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
